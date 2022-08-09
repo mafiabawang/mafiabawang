@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MafiaBawang ( 양파 마피아 )
+- 👋 Hi, I’m @MafiaBawang ( 양파 마피아 ) From Surabaya(ID)
 - 👀 I’m interested in Open Source Technology
 - 🌱 I’m Lifetime Learner
 - 📫 How to reach me mafiabawang@Gmail.com
